@@ -13,7 +13,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "bingher\\ThinkTest\\": "src/"
+            "bingher\\ThinkTest\\": "src/",
+            "test\\": "test/"
         }
     },
     "bin": [
@@ -25,5 +26,5 @@
             "email": "hbh112233abc@163.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }

@@ -1,4 +1,5 @@
 <?php
+namespace bingher\test;
 
 use bingher\ThinkTest\ThinkTest;
 
